@@ -6,7 +6,7 @@
         <h2>List of examples</h2>
         <h4>(clickable)</h4>
         <ol>
-          <li @click="showCurrentComponent(1)">vue interactive list</li>
+          <li v-color @click="showCurrentComponent(1)">vue interactive list</li>
         </ol>
       </div>
       <div class="col">
